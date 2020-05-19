@@ -13,7 +13,7 @@ import "./custom.css";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/">
       <Header />
       <Switch>
         <Route path="/" exact component={Home} />

@@ -7,6 +7,9 @@
 
 }
 
+.fullPost a {
+  color: white;
+}
 
 .fullPost img {
   display: block;
@@ -15,3 +18,4 @@
   margin-right: auto;
   margin-bottom: 3rem;
 }
+
