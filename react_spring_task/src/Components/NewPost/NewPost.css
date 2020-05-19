@@ -1,0 +1,24 @@
+.newPostContainer{
+  margin: 3rem;
+  background: rgba(102, 179, 177, 0.7);
+  padding: 2rem;
+  color:black;
+  border-radius: 5px;
+}
+
+.newPost div {
+  margin: 1rem;
+}
+
+.newPost label {
+  width: 200px;
+  display: inline-block;
+}
+
+.newPost input,
+.newPost textarea {
+  width: 200px;
+  border: 1px solid rgb(99, 99, 99);
+  padding: 0.5rem;
+  font-size: 0.8rem;
+}
